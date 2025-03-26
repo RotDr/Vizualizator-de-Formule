@@ -1,0 +1,16 @@
+Lista functii
+functie(a) - functii trigonometrice
+-a - folosit pentru negativul unei subformule
+abs(a) - folosit pentru modulul lui a
+ln(a) - folosit pentru log natural
+sqrt(a) - folosit pentru radical din a
+a'op'b - operatori clasici op find operatorul pus
+a/b - folosit pentru fractii
+log(a,b) - folosit pentru log de a din b
+rad(a,b) - folosit pentru radical din b de ordin a
+lim(a,b,c) - folosit pentru limita de la a la b de c
+integrala(a,b) - folosit pentru integrala nedefinita
+integraladef(a,b,c,d) - folosit pentru integrala definita
+sum(a,b,c,d) - folosit pentru suma de la a=b la c de d
+a,b,c,d fiind subformule
+inapoi la meniu
